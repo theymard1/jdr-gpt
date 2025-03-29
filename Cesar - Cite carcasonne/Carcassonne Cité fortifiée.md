@@ -183,4 +183,4 @@ _Position — Cité médiévale de Carcassonne_
 
 ### Situation actuelle :
 
-**POP:114, APP:118, MAT:131, SEC:319, TEC:251, BON:307**
+**POP:118, APP:118, MAT:131, SEC:319, TEC:251, BON:307**
