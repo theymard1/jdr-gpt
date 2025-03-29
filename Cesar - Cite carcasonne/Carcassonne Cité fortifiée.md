@@ -1,6 +1,7 @@
 # 🏰 **ÉTAT COMPLET DE LA COLONIE DE LA CITE**
 
-_Actualisé — Printemps bien avancé_
+_Actualisé — Fin du printemps / début d’été_
+_Position — Cité médiévale de Carcassonne_
 
 ---
 
@@ -12,25 +13,22 @@ _Actualisé — Printemps bien avancé_
 
 | Fonctions :
 
-- Quartier général, salle du conseil, archives
-    
-- Infirmier principal, salle d’état-major
-    
-- Cuisine centrale, stocks vitaux
-    
+- Siège du conseil, centre de décisions
+- Archives, cartographies, salle tactique
+- Antenne longue portée + relais cryptés
+- Centre médical avancé, pharmacie
+- Ateliers techniques spécialisés (radio, mécanique fine)
+- Quartier général des Veilleurs du Recul
+- Refuge ultime en cas de siège
 
 | Infrastructures :
 
 - Réservoirs d’eau collectée (chenaux restaurés)
-    
 - Antenne radio longue portée
-    
 - Salles de réunion, dortoirs des veilleurs
-    
 - Atelier de haute précision / équipements stratégiques
-    
 - Refuge d’urgence en cas de siège
-    
+
 
 ---
 
@@ -38,27 +36,21 @@ _Actualisé — Printemps bien avancé_
 
 | Fonctions :
 
-- Logements (anciens restaurés ou reconstruits)
-    
-- Cantines, bibliothèques, lieux d’éducation
-    
-- Zone artisanale (forge, couture, tissage, mécanique)
-    
-- Serres, cultures verticales, potagers en bacs
-    
-- Lieux de mémoire, de parole, de rituels
-    
+- Logements restaurés, dortoirs, habitations de familles
+- Cantines communautaires
+- Atelier général (forge, couture, mécanique, verrerie)
+- Serres urbaines, cultures verticales, jardins de rue
+- Centre éducatif (enfants, jeunes, apprentis)
+- Bibliothèque + lieu de mémoire
+- Temple / chapelle restaurée
 
 | Infrastructures :
 
 - Réseau de récupération d’eau pluviale généralisé
-    
 - Réseau d’électricité (moulins à vent, panneaux solaires, générateurs)
-    
-- Système d’égout partiellement intégré à la circulation interne
-    
+- Stockages souterrains, caves climatisées
+- Commerce interne (artisanat, échanges non-monétaires)
 - Atelier de production (machines, outillage, réparations véhicules)
-    
 
 ---
 
@@ -66,23 +58,16 @@ _Actualisé — Printemps bien avancé_
 
 | État :
 
-- Totalement restaurées (3 portes opérationnelles)
-    
-- Systèmes anti-escalade : débris, verre, grillage
-    
-- Postes de garde fixes et mobiles
-    
-- Signalisation extérieure (fumée, lanternes, radio)
-    
+- Entièrement restaurées
+- 3 portes : Est, Ouest, Sud — toutes renforcées et contrôlées
+- Défenses passives : bris de verre, pointes, grillages, dispositifs d’alerte
+- Postes de guet + rotation de la garde
+- Moulin principal + panneau solaire de crête
 
 | Nouvelles infrastructures :
 
-- Moulin principal (production d’électricité)
-    
-- Batteries connectées + panneaux en surplomb
-    
-- Postes de tir et d’observation (non militarisés)
-    
+- **Veilleurs du Recul** (ex-militaires sous autorité civile)
+- Patrouilles régulières, entraînement des jeunes
 
 ---
 
@@ -90,22 +75,18 @@ _Actualisé — Printemps bien avancé_
 
 | Fonctions :
 
-- Réseau d’égouts sécurisé (multi-niveaux)
-    
+- Réseau d’égouts sécurisé sur plusieurs niveaux
 - Roues à aube (énergie hydraulique)
-    
-- Cultures fongiques / souterraines
-    
+- Cultures souterraines (champignons, racines)
 - Réserves stratégiques (nourriture, graines, armes)
-    
-- Ateliers discrets (traitement, conservation, distillation)
-    
+- Ateliers discrets (conserves, distillation, herboristerie)
+- Axes logistiques : tunnels étendus → entrepôts + quartiers externes  
+    → Certains tunnels transformés en **lignes ferroviaires de transport court**
+
 
 | Infrastructures :
 
 - Réseau élargi : dessert quartiers proches, zones périphériques
-    
-- Accès vers la ville basse, campagne, points éloignés
     
 - **Tunnels logistiques** convertis (chariots + rails internes)
     
@@ -118,128 +99,88 @@ _Actualisé — Printemps bien avancé_
 
 | Train principal : **Le Roncier (v2)**  
 → Moteur à charbon amélioré  
-→ 3 wagons lourds + 1 léger, modulables  
+→ 3 wagons lourds + 2 léger, modulables  
+→ Radio et antenne à bord 
 → Autonomie renforcée, production d’électricité passive
 
 | Réseau :
 
-- Liaison à 3 sites majeurs (scierie, ferme, dépôt technique)
-    
-- Petite gare logistique extérieure à la cité
-    
-- Wagon-chasse, wagon-atelier, capacité de transport élevée  
-    → **Exploitation massive en cours, rotation maîtrisée**
-    
+- Ligne Carcassonne – dépôt logistique
+- Ramification vers scierie, ferme, dépôt technique
+- Extension récente jusqu’à **Radio Mistral (Lespignan)**  
+    → Maintenance régulière, chantiers de réparation intégrés  
+    → Poste de relais ferroviaire en construction
 
 ---
-
-# 🌿 **RÉSERVES ACTUELLES**
+## 🌱 **RÉSERVES & POPULATION**
 
 - **POP : 118**  
-    → Population stable, organisée en cercles de travail, rotation des tâches
+    → Stabilité, rotation du travail, montée en compétence des jeunes
     
-- **APP : 99**  
-    → Réserves suffisantes pour l’année si gestion rigoureuse  
-    → Cultures intérieures + extérieures, conserves, viande séchée
+- **APP : 118**  
+    → Bonnes récoltes, conserves, viande, production fongique
     
-- **MAT : 123**  
-    → Bois, métal, verre, câbles, batteries, matériaux de construction
+- **MAT : 131**  
+    → Bois, métal, verre, pièces détachées, rails
     
-- **SEC : 315**  
-    → Veilleurs intégrés, gardes, sentinelles, système de surveillance
+- **SEC : 300**  
+    → Défense solide, garnison stable, vigilance constante
     
-- **TEC : 240**  
-    → Haut niveau technologique local : électricité, atelier, logistique, énergie, réseau
+- **TEC : 251**  
+    → Haut niveau : radio, électricité, énergie renouvelable, ferroviaire, archives
     
-- **BON : 298**  
-    → Moral élevé, stabilité sociale, petits rituels culturels réguliers
-    
+- **BON : 300**  
+    → Bon moral, festivités, structures de cohésion, art, éducation, spiritualité
 
 ---
 
 # 🤝 **RELATIONS EXTÉRIEURES**
 
 ---
+### 🔷 **Radio Mistral** (Lespignan)
 
-### 🔸 **Les Fers Rouges** (ex-groupe indépendant)
+→ **Partenaire stratégique**  
+→ Échanges réguliers établis via ligne ferroviaire  
+→ Échange de semences, matériel, culture, nouvelles  
+→ Lien stable, respect mutuel élevé  
+→ Possible délégation en retour attendue
 
-- Intégrés à la colonie
-    
-- Experts en mécanique lourde, récupération et combat
-    
-- Contribuent aux ateliers, à la forge, à la logistique
-    
-- Sont les garants du “fer utile, pas hostile”
-    
+---
+### 🟢 **Le Verger**
+
+→ Foyer agricole indépendant, cordial  
+→ Échanges saisonniers : lapereaux, chèvres, plantes  
+→ Coopération technique et éducative  
+→ Axe routier sécurisé + sentiers forestiers
+
+---
+### 🕯️ **Site militaire NE-3 (zone nord-est)**
+
+→ Poste actif, **hostile au contact direct**  
+→ Refuse dialogue sans code militaire ancien  
+→ Protège **le Silo SE-B**, contenu inconnu  
+→ Surveillance maintenue, site classé “risque stratégique passif”
 
 ---
 
-### 🔸 **Le Verger** (ancienne ferme fortifiée)
+## 🧭 **TERRITOIRE CONTRÔLÉ / ACCÈS**
 
-- Relations cordiales
-    
-- Échanges agricoles, animaux, semences
-    
-- Fréquentation croisée des enfants entre les deux sites
-    
-- Projet d’échange de jeunes apprentis en cours
-    
-
----
-
-### 🔸 **Radio Mistral** (colonie distante)
-
-- Échanges radios ouverts
-    
-- Partage d’infos, de récits, et d’avis sur projets techniques
-    
-- Aucune demande de rapprochement formelle encore  
-    → Reste une piste stratégique
-    
+- **Cité fortifiée** : entièrement sécurisée
+- **Ville basse** : partiellement explorée, zones sûres
+- **Zones agricoles** : exploitation active + verger
+- **Zones industrielles / dépôts** : plusieurs sites vidés ou en cours
+- **Forêts** : exploitation bois et chasse saisonnière
+- **Réseau ferré** : réseau local + ligne interrégionale partielle  
+    → Projets d’extension vers Béziers, Montpellier évoqué- s
 
 ---
 
-### 🔸 **Les Veilleurs du Recul**
-
-- Ancien détachement militaire
-    
-- Huit membres intégrés sous conditions strictes
-    
-- Participent à la sécurité, à la logistique, à la formation
-    
-- Refusent toute autorité personnelle, acceptent les ordres du conseil  
-    → Respect mutuel en construction
-    
+> Ysée :  
+> _“On ne vit pas au-dessus de ruines.  
+> On vit **dans les interstices du futur** qu’on est en train de planter.”_
 
 ---
 
-### 🔸 **Autres groupes** :
+### Situation actuelle :
 
-- Plusieurs survivants isolés, petits groupes intégrés depuis l’hiver
-    
-- Points de rendez-vous maintenus
-    
-- Rumeurs d’un autre groupe très mobile à l’est  
-    → Veille passive maintenue
-    
-
----
-
-## 🗺️ **TERRITOIRE CONTRÔLÉ**
-
-- **Cité médiévale fortifiée** : entièrement sécurisée
-    
-- **Ville basse** : partiellement explorée, égouts maîtrisés
-    
-- **Zones agricoles, industrielles et ferroviaires** : 5 sites contrôlés
-    
-- **Zones forestières** : sous exploitation sélective, pas de base permanente
-    
-- **Périmètre élargi surveillé** via tunnels, radios, véhicules
-    
-
----
-
-> Ysée, dans un murmure en refermant un carnet :  
-> _“C’est plus une colonie.  
-> C’est une civilisation en germe.”_
+**POP:114, APP:118, MAT:131, SEC:319, TEC:251, BON:307**
