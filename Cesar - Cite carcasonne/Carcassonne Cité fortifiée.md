@@ -28,6 +28,7 @@ _Position — Cité médiévale de Carcassonne_
 - Salles de réunion, dortoirs des veilleurs
 - Atelier de haute précision / équipements stratégiques
 - Refuge d’urgence en cas de siège
+- **Réseaux radio en expansion**
 
 
 ---
@@ -85,21 +86,18 @@ _Position — Cité médiévale de Carcassonne_
 
 
 | Infrastructures :
-
+- **Cœur Souterrain** (production énergétique stable et protégée)
 - Réseau élargi : dessert quartiers proches, zones périphériques
-    
 - **Tunnels logistiques** convertis (chariots + rails internes)
-    
 - Réseau de signalisation et ventilation partielle
-    
 
 ---
 
 ## 🚂 **Infrastructure spéciale : Le Réseau Ferroviaire**
 
-| Train principal : **Le Roncier (v2)**  
+| Train principal : **Le Roncier (v3)**  
 → Moteur à charbon amélioré  
-→ 3 wagons lourds + 2 léger, modulables  
+→ 4 wagons lourds + 4 léger, modulables  
 → Radio et antenne à bord 
 → Autonomie renforcée, production d’électricité passive
 
