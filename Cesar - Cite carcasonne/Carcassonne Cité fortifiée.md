@@ -92,43 +92,35 @@ _Position — Cité médiévale de Carcassonne_
 - Réseau de signalisation et ventilation partielle
 
 ---
+### B. **CITÉ EXTÉRIEURE** _(nouveau cœur vivant)_
 
-## 🚂 **Infrastructure spéciale : Le Réseau Ferroviaire**
+- Quartiers neufs : **résidentiel, artisanat, élevage, marché**
+- Halle des Passages : **centre de troc, diplomatie et veille inter-colonies**
+- Enclos animaux (lapins, chèvres, poules)
+- Serres et potagers périphériques en extension
+- Place publique / espace clairière : **échanges culturels, veillées**
 
-| Train principal : **Le Roncier (v3)**  
-→ Moteur à charbon amélioré  
-→ 4 wagons lourds + 4 léger, modulables  
-→ Radio et antenne à bord 
-→ Autonomie renforcée, production d’électricité passive
-
-| Réseau :
-
-- Ligne Carcassonne – dépôt logistique
-- Ramification vers scierie, ferme, dépôt technique
-- Extension récente jusqu’à **Radio Mistral (Lespignan)**  
-    → Maintenance régulière, chantiers de réparation intégrés  
-    → Poste de relais ferroviaire en construction
 
 ---
 ## 🌱 **RÉSERVES & POPULATION**
 
-- **POP : 118**  
-    → Stabilité, rotation du travail, montée en compétence des jeunes
+- **POP : 261**  
+    → Population stable, croissance naturelle amorcée
     
-- **APP : 118**  
-    → Bonnes récoltes, conserves, viande, production fongique
+- **APP : 180**  
+    → Réserves alimentaires équilibrées (production et stockage)
     
-- **MAT : 131**  
-    → Bois, métal, verre, pièces détachées, rails
+- **MAT : 118**  
+    → Matériaux suffisants pour entretien et projets modestes
     
-- **SEC : 300**  
-    → Défense solide, garnison stable, vigilance constante
+- **SEC : 386**  
+    → Défense structurée, patrouilles continues, deux lignes sécurisées
     
-- **TEC : 251**  
-    → Haut niveau : radio, électricité, énergie renouvelable, ferroviaire, archives
+- **TEC : 450**  
+    → Fortement excédentaire, rayonnement technologique réel
     
-- **BON : 300**  
-    → Bon moral, festivités, structures de cohésion, art, éducation, spiritualité
+- **BON : 1042**  
+    → Exceptionnel, unité culturelle, stabilité émotionnelle collective
 
 ---
 
